@@ -1,3 +1,18 @@
+## Inicialização
+
+Antes de tudo faça um <code>npm install</code> para baixar os módulos que são usados no projeto.
+
+Logo após, na raiz do projeto, crie um <code>.env</code> com a seguinte estrutura:
+
+<code>
+PORT=3000
+JWT_SECRET=narutoehmelhorquedbz
+SALT_ROUNDS=14
+</code>
+<br>
+<br>
+E então inicie o arquivo <code>index.js</code> na pasta <code>src</code>.
+
 ## Rotas
 
 <hr>
