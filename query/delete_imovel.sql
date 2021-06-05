@@ -1,0 +1,1 @@
+DELETE FROM imovel WHERE id=?;

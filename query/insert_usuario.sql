@@ -1,0 +1,1 @@
+INSERT INTO usuario(nome, cpf, email, senha) VALUES (?, ?, ?, ?);

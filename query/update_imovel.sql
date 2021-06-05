@@ -1,0 +1,1 @@
+UPDATE imovel SET cep=? WHERE id=?;

@@ -1,0 +1,1 @@
+INSERT INTO imovel(cep, numero, complemento, valor, qntQuartos, disponivel) VALUES(?, ?, ?, ?, ?, ?);
